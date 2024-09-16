@@ -26,6 +26,12 @@ jobs:
     - name: Build the project
       run: npm run build
 
+    - name: Upload artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: github-pages-${{ github.run_id }}
+        path: ./build
+
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
