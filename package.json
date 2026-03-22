@@ -17,12 +17,12 @@
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^7.0.0",
     "rollup-plugin-terser": "^7.0.0",
-    "svelte": "^3.0.0"
+    "svelte": "^5.54.1"
   },
   "dependencies": {
     "livereload": "^0.8.0",
     "sirv-cli": "^1.0.0",
-    "svelte-routing": "^1.6.0",
+    "svelte-routing": "^1.11.0",
     "uuid": "^8.3.2"
   }
 }
