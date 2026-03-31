@@ -20,7 +20,7 @@
     "svelte": "^5.54.1"
   },
   "dependencies": {
-    "livereload": "^0.8.0",
+    "livereload": "^0.10.3",
     "sirv-cli": "^1.0.0",
     "svelte-routing": "^1.11.0",
     "uuid": "^8.3.2"
