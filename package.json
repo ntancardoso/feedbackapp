@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@iconify/svelte": "^2.2.1",
-    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-commonjs": "^29.0.3",
     "@rollup/plugin-node-resolve": "^11.0.0",
     "@rollup/plugin-terser": "^0.4.4",
     "@zerodevx/svelte-toast": "^0.7.2",
